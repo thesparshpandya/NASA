@@ -13,3 +13,5 @@ Python, TensorFlow (ML Model)
 JavaScript, HTML/CSS (Frontend)
 Flask/Node.js (Backend)
 Google Earth Engine / NASA FIRMS (Satellite Data)
+
+(Built by a 5-member team during NASA Space Apps 2023)
